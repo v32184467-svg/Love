@@ -195,7 +195,7 @@
 
     <div id="step-1" class="glass-card text-center" style="display: block; opacity: 1;">
         <div class="text-6xl mb-6 heart-beat">❤️</div>
-        <h1 class="heading-serif text-4xl font-bold mb-4">Yo Babuaa,</h1>
+        <h1 class="heading-serif text-4xl font-bold mb-4">Devi Jii,</h1>
         <p class="text-slate-300 mb-8 leading-relaxed">I built a little world for you, just to bring a smile to your face on your special day.</p>
         <button onclick="nextStep(2)" class="btn-valentine text-white font-bold py-3 px-10 rounded-full">Let's Begin</button>
     </div>
