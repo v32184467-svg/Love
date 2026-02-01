@@ -373,7 +373,7 @@
                 confetti({ ...defaults, particleCount, origin: { x: Math.random(), y: Math.random() - 0.2 }, shapes: ['circle'], scalar: 1.2 });
             }, 250);
 
-            // Emoji Confetti
+          // Emoji Confetti
             confetti({
                 particleCount: 40,
                 spread: 70,
