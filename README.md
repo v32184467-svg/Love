@@ -399,8 +399,7 @@
                 gsap.to(heart.scale, { x: 0, y: 0, z: 0, duration: 3, delay: i * 0.05 });
             });
         }
-
-    
+        
         function triggerMassivePopups() {
             for(let i=0; i<100; i++) {
                 setTimeout(() => {
